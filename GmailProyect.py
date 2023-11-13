@@ -99,7 +99,6 @@ for x in range(i):
             else:
                 print("Existe mail en DB")
 
-
 ###PARTE 3###
 ###RESULT DB###
 print ("DB despues de ejecucion")
